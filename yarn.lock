@@ -277,6 +277,11 @@ camelcase@^5.3.1:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-5.3.1.tgz#e3c9b31569e106811df242f715725a1f4c494320"
   integrity sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg==
 
+ccxt@^1.42.77:
+  version "1.42.77"
+  resolved "https://registry.yarnpkg.com/ccxt/-/ccxt-1.42.77.tgz#8ab5f8e7190854e163da6d4fcf44530794d0a21c"
+  integrity sha512-vPaw8G3hr9iq1iJ59EHuA6iqjufgK6dNC7MjT3qV8YQbpEJoD2ynoFwfl1hbuvlyKlFjiOa3gHwhRV64UacBDQ==
+
 chalk@^2.0.0:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"
